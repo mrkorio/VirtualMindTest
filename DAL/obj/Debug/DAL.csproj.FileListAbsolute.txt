@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\DAL.dll.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\DAL.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\DAL.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\obj\Debug\DAL.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\DAL\obj\Debug\DAL.pdb

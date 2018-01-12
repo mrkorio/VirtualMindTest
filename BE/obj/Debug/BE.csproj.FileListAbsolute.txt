@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BE\bin\Debug\BE.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BE\bin\Debug\BE.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BE\obj\Debug\BE.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BE\obj\Debug\BE.pdb

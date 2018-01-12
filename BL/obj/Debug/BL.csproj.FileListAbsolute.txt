@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\BL.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\BL.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\BE.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\DAL.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\BE.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\DAL.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\DAL.dll.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\obj\Debug\BL.dll
+C:\Users\PC\Documents\Visual Studio 2017\Projects\VirtualMindTestService\BL\obj\Debug\BL.pdb
